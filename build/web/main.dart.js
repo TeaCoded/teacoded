@@ -71267,13 +71267,13 @@ $0(){A.XZ(this.a).vE(null)
 A.nz(A.e6("tel://+917011366405",0,null))},
 $S:4}
 A.Xg.prototype={
-$0(){A.nz(A.e6("https://https://wa.me/917011366405/",0,null))},
+$0(){A.nz(A.e6("https://wa.me/917011366405/",0,null))},
 $S:4}
 A.Xh.prototype={
 $0(){A.nz(A.e6("https://www.linkedin.com/in/bhatiachirag2002/",0,null))},
 $S:4}
 A.Xi.prototype={
-$0(){A.nz(A.e6("https://https://github.com//",0,null))},
+$0(){A.nz(A.e6("https://github.com/TeaCoded",0,null))},
 $S:4}
 A.kj.prototype={
 I(a){var s=null,r=t.w,q=A.v(a,B.e,r).w.a.a>=1024?A.v(a,B.e,r).w.a.a*0.003:5,p=A.v(a,B.e,r).w.a.a>=1024?A.v(a,B.e,r).w.a.a*0.006:13,o=A.v(a,B.e,r).w.a.a>=1024?A.v(a,B.e,r).w.a.a*0.0015:3,n=A.v(a,B.e,r).w.a.a>=1024?A.v(a,B.e,r).w.a.a*0.18:250,m=this.e,l=A.v(a,B.e,r).w.a.a>=1024?A.v(a,B.e,r).w.a.a*0.016:23,k=A.v(a,B.e,r).w.a.a>=1024?A.v(a,B.e,r).w.a.a*0.016:23

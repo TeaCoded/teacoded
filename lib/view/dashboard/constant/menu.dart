@@ -93,7 +93,7 @@ class Menu extends StatelessWidget {
             SocialCard(
               onTap: () {
                 Uri uri =
-                    Uri.parse('https://https://wa.me/91${AppText.phone}/');
+                    Uri.parse('https://wa.me/91${AppText.phone}/');
                 launchUrl(uri);
               },
               label: 'Whatsapp',
@@ -110,7 +110,7 @@ class Menu extends StatelessWidget {
             ),
             SocialCard(
               onTap: () {
-                Uri uri = Uri.parse('https://https://github.com//');
+                Uri uri = Uri.parse('https://github.com/TeaCoded');
                 launchUrl(uri);
               },
               label: 'GitHub',
